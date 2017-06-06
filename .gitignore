@@ -4,3 +4,10 @@
 /vendor/
 /web/bundles/
 ###< symfony/framework-bundle ###
+
+.idea/
+composer.phar
+bin/
+###> symfony/web-server-bundle ###
+.web-server-pid
+###< symfony/web-server-bundle ###
